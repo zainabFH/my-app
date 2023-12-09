@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Computer",
       "price": 5600,
-      "checked": false
+      "checked": true
     },
     {
       "id": 2,
       "name": "Printer",
       "price": 3200,
-      "checked": false
+      "checked": true
     },
     {
       "id": 3,
@@ -29,6 +29,18 @@
       "price": "4000",
       "checked": true,
       "id": 5
+    },
+    {
+      "name": "abc",
+      "price": "10",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "price": "10",
+      "checked": false,
+      "id": 7
     }
   ]
 }
